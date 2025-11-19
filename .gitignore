@@ -1,0 +1,12 @@
+# 認証キー類
+service_account.json
+*.json
+
+# 環境変数ファイル
+.env
+
+# ログやローカル生成物
+*.log
+__pycache__/
+*.pyc
+news_log.csv
